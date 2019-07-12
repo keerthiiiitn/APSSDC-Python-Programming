@@ -1,0 +1,4 @@
+name eng phy maths
+keeru 84 70 60
+kalyan 70 80 90
+sandy 50 60 70
